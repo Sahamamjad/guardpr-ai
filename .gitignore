@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+
+# Node
+node_modules/
+dist/
+*.local
+
+# Environment & secrets
+.env
+.env.local
+*.pem
+secrets/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Scan workspaces
+/tmp/
+scan-workspace/
+
+# Reports storage
+backend/storage/
+
+# Alembic
+# keep versions tracked
+
+# Docker
+*.log
