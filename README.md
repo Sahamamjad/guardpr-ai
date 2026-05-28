@@ -7,6 +7,22 @@ Production-grade **DevSecOps / Application Security** portfolio project. GuardPR
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## Screenshots
+<img width="2550" height="1740" alt="Screenshot 2026-05-28 at 17 24 32" src="https://github.com/user-attachments/assets/3c714b04-f126-4f08-8e61-5ddd9fdf9cff" />
+<img width="2880" height="1800" alt="Screenshot 2026-05-28 at 17 25 10" src="https://github.com/user-attachments/assets/61e7a4f1-8374-4f6c-8436-b7061dd596f4" />
+<img width="2880" height="1800" alt="Screenshot 2026-05-28 at 17 25 19" src="https://github.com/user-attachments/assets/f9484b8d-ed3d-4cf1-a774-e29bbb467336" />
+<img width="2880" height="1800" alt="Screenshot 2026-05-28 at 17 25 30" src="https://github.com/user-attachments/assets/42b066de-c9d6-4fe1-96bc-bb85dfa9b798" />
+<img width="2880" height="1800" alt="Screenshot 2026-05-28 at 17 25 35" src="https://github.com/user-attachments/assets/f1059712-cfda-4908-9d36-92e9a71598ce" />
+<img width="2880" height="1800" alt="Screenshot 2026-05-28 at 17 25 40" src="https://github.com/user-attachments/assets/087a0454-f2cd-47b2-844b-c5dde7ed93d8" />
+<img width="2880" height="1800" alt="Screenshot 2026-05-28 at 17 26 02" src="https://github.com/user-attachments/assets/b6384dec-cbd6-4be4-a866-22262ac109c2" />
+
+
+
+
+
+
+
+
 ## Features
 
 - **GitHub App** — webhooks for `pull_request.opened`, `synchronize`, `reopened`
